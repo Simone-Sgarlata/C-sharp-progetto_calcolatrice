@@ -1,1 +1,1 @@
-# C-sharp-progetto_calcolatrice
+this project is a console calculator using C#
